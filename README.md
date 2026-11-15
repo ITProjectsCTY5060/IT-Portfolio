@@ -35,7 +35,7 @@ Configured Cisco networking and IP telephony services using Cisco Unified Commun
 
 **Highlighted Technical skills**
 
-VLAN configuration, 802.1Q trunking, and PortFast
+* VLAN configuration, 802.1Q trunking, and PortFast
 
 Router subinterfaces and DHCP pools
 
