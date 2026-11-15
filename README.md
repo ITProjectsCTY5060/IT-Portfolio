@@ -22,3 +22,4 @@ Static Routes, Network Redundancy, Switchport Security, ACLs, ect. I assisted wi
 **Documentation:**
 [View Capstone Presentation] [(https://github.com/ITProjectsCTY5060/IT-Portfolio/blob/main/Capstone%20Project%20Presentation.pdf)]
 
+The Networking slides are located in the latter half of the presentation. 
