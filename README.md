@@ -17,3 +17,5 @@ Collaborated with a team of four to design and implement a simulated enterprise 
 - Configured Windows Server services and Group Policy.
 
 **Documentation:**
+[View Capstone Presentation] [https://github.com/ITProjectsCTY5060/IT-Portfolio/blob/main/Capstone%20Project%20Presentation.pdf]
+
