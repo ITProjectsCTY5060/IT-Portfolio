@@ -22,7 +22,7 @@ Static Routes, Network Redundancy, Switchport Security, ACLs, etc. I assisted wi
 **Documentation:**
 [View Capstone Presentation] [(https://github.com/ITProjectsCTY5060/IT-Portfolio/blob/main/Capstone%20Project%20Presentation.pdf)]
 
-The Networking slides are located in the latter half of the presentation. 
+The relevant slides associated with my contribution are located in the latter half of the presentation. 
 
 
 
@@ -71,6 +71,32 @@ Verified domain controller replication and Group Policy functionality.
 
 **Documentation:**
 [View Runbook] [https://github.com/ITProjectsCTY5060/IT-Portfolio/blob/main/TrueNAS%20Disaster%20Recovery%20Runbook.pdf]
+
+
+
+
+
+### Wireless Networking — Post-Deployment Passive Site Survey
+
+Collaborated on a technical presentation explaining the purpose of post-deployment wireless site surveys. 
+
+
+**Highlighted concepts**
+
+Evaluating wireless coverage using RSSI, SNR, and noise floor measurements.
+
+Identifying co-channel interference and RF attenuation.
+
+Exploring Ekahau heatmaps and wireless spectrum analysis.
+
+Examining Wireshark's role in wireless network troubleshooting.
+
+
+**Documentation:** 
+[View Wireless Site Survey Presentation] [https://github.com/ITProjectsCTY5060/IT-Portfolio/blob/main/Wireless%20Passive%20Site%20Survey%20Presentation.pdf]
+
+
+
 
 
 
