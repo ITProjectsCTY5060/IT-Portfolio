@@ -1,0 +1,34 @@
+# Springhill Medical Center — Enterprise Network Deployment
+
+## Project Overview
+This academic group capstone project involved designing and deploying a simulated enterprise network for Springhill Medical Center, a multi-tenant medical facility.
+
+The project was completed by a team of four students as part of Fanshawe College's Computer Systems Technician (CTN) program.
+
+## Technologies Used
+- Cisco IOS
+- VLANs and Inter-VLAN Routing
+- OSPF
+- IPv4 and IPv6
+- First Hop Redundancy Protocol (FHRP)
+- Access Control Lists (ACLs)
+- Windows Server
+- Active Directory and Group Policy
+- DNS and DHCP
+
+## Project Highlights
+- Designed a segmented network supporting 18 VLANs.
+- Configured dynamic routing and backup static routes.
+- Implemented network security using ACLs and switch port hardening.
+- Configured Windows Server services and Group Policy.
+- Performed connectivity, security, and failover testing.
+
+## Project Documentation
+The final presentation and selected technical diagrams will be available here.
+
+## Skills Developed
+- Enterprise network design
+- Routing and switching
+- Windows Server administration
+- Network security
+- Troubleshooting and teamwork
