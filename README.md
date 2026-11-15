@@ -1,6 +1,7 @@
 # IT-Portfolio
 Collection of work that summarizes the skills I've learned in CTN/CTY
 
+
 ## Academic Projects
 
 ### Springhill Medical Center — Enterprise Network Deployment
@@ -17,5 +18,5 @@ Collaborated with a team of four to design and implement a simulated enterprise 
 - Configured Windows Server services and Group Policy.
 
 **Documentation:**
-[View Capstone Presentation] [https://github.com/ITProjectsCTY5060/IT-Portfolio/blob/main/Capstone%20Project%20Presentation.pdf]
+[View Capstone Presentation] [(https://github.com/ITProjectsCTY5060/IT-Portfolio/blob/main/Capstone%20Project%20Presentation.pdf)]
 
